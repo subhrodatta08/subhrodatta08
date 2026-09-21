@@ -155,7 +155,7 @@ I am a **Software Engineer** focused on building robust full-stack web applicati
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/subhrodatta08/apex-intelligence">📈 APEX Intelligence — Investment Analyzer</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-ES2020-F7DF1E?style=flat-square&logo=javascript" />
@@ -165,6 +165,22 @@ I am a **Software Engineer** focused on building robust full-stack web applicati
         <img src="https://img.shields.io/badge/Privacy-100%25%20Local-10B981?style=flat-square" />
       </p>
       <p>AI document intelligence engine running entirely in-browser. Extracts market signals, risk ratings, and anomaly indicators from financial PDFs and spreadsheets with zero backend requirement.</p>
+      <ul>
+        <li><b>Key Highlight:</b> Client-side PDF/Excel parsing, interactive radar scoring charts, and risk category visualizer</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/subhrodatta08/Shazam-Clone">🎵 Echo Sense — Shazam Clone</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/NumPy-1.24%2B-013243?style=flat-square&logo=numpy" />
+        <img src="https://img.shields.io/badge/SciPy-1.10%2B-8CAAE6?style=flat-square&logo=scipy" />
+        <img src="https://img.shields.io/badge/SQLite-3-003B57?style=flat-square&logo=sqlite" />
+      </p>
+      <p>Acoustic landmark fingerprinting & music identification engine modeled after Avery Wang's Shazam algorithm. Computes STFT spectrograms, extracts constellation peaks, and performs sub-second offset consensus matching.</p>
+      <ul>
+        <li><b>Key Highlight:</b> Robust recognition under ambient noise, SQLite inverted indexing, and built-in demo suite</li>
+      </ul>
     </td>
   </tr>
 </table>
