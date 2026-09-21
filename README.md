@@ -3,7 +3,7 @@
 # Hi there, I'm Subhro Datta 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Industrial+IoT+Specialist;Robotics+%26+Autonomous+Systems+Developer;Full-Stack+Architect+%7C+FastAPI+%2B+Next.js+%2B+ROS2;Passionate+about+Edge+AI+%26+Digital+Twins" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Full-Stack+Developer;Backend+%26+Systems+Developer;Robotics+%26+Autonomous+Systems+Developer;Python+%E2%80%A2+C%2B%2B+%E2%80%A2+FastAPI+%E2%80%A2+Next.js" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -13,14 +13,14 @@
   <a href="mailto:subhrodatta08@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Status-Building%20High--Impact%20Systems-10B981?style=flat" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-10B981?style=flat" alt="Status" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I am a **Software Engineer & Robotics / Industrial IoT Specialist** passionate about building robust, edge-to-cloud cyber-physical architectures, autonomous robotic navigation, and resilient full-stack applications.
+I am a **Software Engineer** focused on building robust full-stack web applications, scalable backend systems, and autonomous robotics architectures. I enjoy taking ideas from concept to production — writing clean, tested code across modern web stacks, industrial telemetry pipelines, and embedded hardware.
 
 - 🏭 **Industrial IoT & Edge AI**: Engineered digital twin pipelines and anomaly detection systems modeled on Siemens Industrial Edge standards.
 - 🤖 **Robotics & Autonomous Systems**: Built physical rovers with ROS2 Humble, ORB-SLAM3 monocular visual odometry, and real-time 3D feature mapping in GPS-denied environments.
